@@ -1,5 +1,7 @@
 {
   "name": "bilwara",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
